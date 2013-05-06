@@ -36,13 +36,13 @@ https://github.com/korylprince/pygvoicelib/issues
 #Usage#
 
 The main file that you will need is:
-* pygovoicelib.py
+* pygvoicelib.py
 
 All the functions are documented inside the code. For a quick documentation, just do:
 
     $ python
-    >>> import pygovoicelib
-    >>> help(pygovoicelib)
+    >>> import pygvoicelib
+    >>> help(pygvoicelib)
 
 They have full text that guides you through and very simple source. Please refer to them as an example of proper usage of the library.
 
