@@ -21,14 +21,8 @@ Included is a script, get\_auth.py that can retrieve authentication settings for
 First create an application-specific password: https://accounts.google.com/b/0/IssuedAuthSubTokens
 
 Then run the script and input your username and the one time password (the spaces around the password do not matter.)
-The script will output all the variables needed to create a client. Keep these saved.
 
-You can then create your own that looks something like:
-
-    import pygvoicelib
-    client = pygvoicelib.GoogleVoice(username,apppass,auth_token,rnr_se)
-    client.sms(number,txtmsg)
-
+The script will output a new script that can be used to send text messages (it includes all needed keys.)
 
 If you have any issues or questions, email the email address below, or open an issue at:
 https://github.com/korylprince/pygvoicelib/issues
