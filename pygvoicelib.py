@@ -37,7 +37,7 @@ CALL_URL = '/call/connect/'
 CANCEL_URL = '/call/cancel/'
 SMS_URL = '/sms/send/'
 
-LOGIN_ERR_MSG = 'You have not yet setup your Google Voice account. Please <a href="http://googe.com/voice" target="_blank" style="text-decoration:underline">configure your Google Voice</a> and try again.'
+LOGIN_ERR_MSG = 'You have not yet setup your Google Voice account. Please <a href="http://google.com/voice" target="_blank" style="text-decoration:underline">configure your Google Voice</a> and try again.'
 
 class GoVoError(Exception):
     pass
