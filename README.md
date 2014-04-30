@@ -2,6 +2,10 @@ pygvoicelib
 
 https://github.com/korylprince/pygvoicelib
 
+#NOTICE#
+
+This library will probably stop working on May 15, 2014. You can view more information about this and a possible alternative on my post [here](http://www.raspberrypi.org/forums/viewtopic.php?p=543248#p543248).
+
 #History#
 
 I searched long and hard for a python library that could interface with Google Voice **and** work with Two-Factor authentication.
