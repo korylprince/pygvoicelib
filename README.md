@@ -12,7 +12,7 @@ I searched long and hard for a python library that could interface with Google V
 
 I finally stumbled upon pygvoicelib: http://code.google.com/p/pygvoicelib/ , an excellent library that works by using an application-specific password.
 
-However it did not come with sms support, which I required. Therefore I modified the code and added an auxilary script. I publish this modification here for others to use. Credit for this work goes to Ehsan Foroughi.
+However it did not come with sms support, which I required. Therefore I modified the code and added an auxiliary script. I publish this modification here for others to use. Credit for this work goes to Ehsan Foroughi.
 
 The code works very well, and the service is very reliable as long as you don't attempt to send too many texts close together.
 
